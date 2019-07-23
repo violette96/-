@@ -1,0 +1,29 @@
+h1 {
+  background-color: rgb(238, 224, 245); 
+  font-size: 26pt; 
+  text-align: center;
+}
+h2 {
+   background-color: rgb(221, 186, 229);  
+   text-align: center;
+}
+h4 { 
+   background-color: rgb(208, 0, 255);
+   text-align: center;
+   width: 200px;
+   height: 40px;
+   display: block;
+   padding-top: 9px;
+   margin: 20px auto;
+   text-decoration-line: none;
+
+}
+body{
+  background: linear-gradient(to top, #fcfcfc, #ce9deb); //градиент
+ 
+}
+.contents{ 
+   font-style: italic;
+   position: fixed;
+   background: #fcfcfc;
+  }
